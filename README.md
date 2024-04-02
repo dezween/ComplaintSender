@@ -6,6 +6,6 @@
 В файле random_numbers.txt написаны фразы для поле описание, можете вписать свои фразы, если хотите.
 
 # Установка
-1. git clone "https://github.com/dezween/Complaint_Sender.git"
+1. git clone "https://github.com/dezween/ComplaintSender.git"
 2. cd Complaint_Sender
 3. pip install -r requirements.txt# ComplaintSender
