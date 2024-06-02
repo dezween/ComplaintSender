@@ -1,0 +1,9 @@
+
+создать виртуальное окружение
+python -m venv venv
+
+активировать виртуальное окружение
+venv\Scripts\activate 
+
+создать requirements.txt
+pip freeze > requirements.txt 
